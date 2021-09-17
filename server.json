@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "http://culinaria.culturamix.com/blog/wp-content/gallery/como-fazer-pratos-de-restaurante-6/Como-Fazer-Pratos-de-Restaurante-14.jpg",
+      "name": "Carne Assada com Batatas",
+      "price": "35.00",
+      "description": "Carne assada com manteiga e batatas servido ao molho pardo",
+      "available": true,
+      "id": 4
     }
   ]
 }
